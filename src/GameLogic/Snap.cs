@@ -10,7 +10,7 @@ namespace CardGames.GameLogic
 {
 	/// <summary>
 	/// The Snap card game in which the user scores a point if they
-	/// click when the rank of the last two cards match.
+	/// click when the rank of the last two cards match..
 	/// </summary>
 	public class Snap
 	{
